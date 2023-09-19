@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adriana Estrada</h1>
 <h3 align="center">A passionate Data Science & Data Engineer in Canada </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 ![](https://github.com/halfrost/halfrost/blob/master/icons/aws.gif) ![](https://github.com/halfrost/halfrost/blob/master/icons/docker.gif)
 <!--
