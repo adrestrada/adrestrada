@@ -53,6 +53,33 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halfrost&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=halfrost&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="halfrost's Github Stats" />
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=halfrost&column=7" alt="halfrost's Github Trophy" />
+</p>
+
+</details>
+  
+<hr>
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+<p  align="center">
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=halfrost.halfrost" alt="visitor badge"/>-->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=halfrost.halfrost" alt="visitor badge"/>       
+</p>
+
+</p>
+
 <!--
 **adrestrada/adrestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
