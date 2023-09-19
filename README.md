@@ -1,5 +1,5 @@
 ### Hi I am Adriana Estrada 👋
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <!--
 **adrestrada/adrestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
