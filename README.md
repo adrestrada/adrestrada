@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adriana Estrada</h1>
 <h3 align="center">A passionate Data Science & Data Engineer in Canada </h3>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 ![](https://github.com/adrestrada/website/blob/main/images/cloud-services-and-components-comparison-cheat-sheet-oci-aws-az-gcp.gif)
 
 <div align="center">
@@ -56,7 +55,7 @@
 </br>
 </br>
 </br>
-
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <!--
 **adrestrada/adrestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
