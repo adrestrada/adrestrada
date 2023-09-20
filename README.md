@@ -11,6 +11,13 @@
 </br>
 </br>
 
+<div align="center">
+<img hight="50" width="100" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/aws.gif">
+</div>
+
+</br>
+</br>
+</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
