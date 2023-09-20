@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adriana Estrada</h1>
 <h3 align="center">A passionate Data Science & Data Engineer in Canada </h3>
 
-![](https://github.com/adrestrada/website/blob/main/images/cloud-services-and-components-comparison-cheat-sheet-oci-aws-az-gcp.gif)
+</br> 
+<div align="center">
+<img hight="70" width="470" alt="GIF" align="center" src="https://github.com/adrestrada/website/blob/main/images/cloud-services-and-components-comparison-cheat-sheet-oci-aws-az-gcp.gif">
+</div>
+</br>
 
 <div align="center">
 <img hight="90" width="140" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
