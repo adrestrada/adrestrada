@@ -52,11 +52,8 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
   
-![](https://github.com/halfrost/halfrost/blob/master/icons/aws.gif)
-![](https://github.com/halfrost/halfrost/blob/master/icons/docker.gif)>
-
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="100" width="500" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/aws.gif">
 </div>
 
 </br>
