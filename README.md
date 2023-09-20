@@ -50,9 +50,10 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-  
-| Azure |  Scala | Pyhton | Spring Boot| Hadoop | Spark Straming | Kafka| AWS
-| :---: | :---: | :---: | :---: |  :---: | :---: | :---: | :---: | 
+ <div align="center">
+<img hight="90" width="140" alt="GIF" align="center" src="https://github.com/adrestrada/website/blob/main/images/638d9101e3ddcd7caa41b4d1_Informatica%20B2B%20Data%20Exchange%20Test.svg">
+</div>
+</br> 
 
 <!--
 **adrestrada/adrestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
