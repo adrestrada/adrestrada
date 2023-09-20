@@ -5,11 +5,7 @@
 
 <div align="left">
 <img hight="50" width="100" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
-</div>
-
-</br>
-</br>
-</br><div align="right">
+</div></br><div align="right">
 <img hight="50" width="100" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/aws.gif">
 </div>
 
