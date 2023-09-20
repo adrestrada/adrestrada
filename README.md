@@ -5,7 +5,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/docker.gif)
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
+<img hight="100" width="500" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
 </div>
 
 </br>
