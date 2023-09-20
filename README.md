@@ -4,7 +4,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <div align="center">
-<img hight="50" width="100" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif>">
+<img hight="50" width="100" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
 </div>
 
 </br>
@@ -54,6 +54,15 @@
   
 ![](https://github.com/halfrost/halfrost/blob/master/icons/aws.gif)
 ![](https://github.com/halfrost/halfrost/blob/master/icons/docker.gif)>
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+</br>
+</br>
+</br>
+
 <!--
 **adrestrada/adrestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
