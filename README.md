@@ -3,7 +3,7 @@
 
 </br> 
 <div align="center">
-<img hight="200" width="600" alt="GIF" align="center" src="https://github.com/adrestrada/website/blob/main/images/cloud-services-and-components-comparison-cheat-sheet-oci-aws-az-gcp.gif">
+<img hight="400" width="1000" alt="GIF" align="center" src="https://github.com/adrestrada/website/blob/main/images/cloud-services-and-components-comparison-cheat-sheet-oci-aws-az-gcp.gif">
 </div>
 </br>
 
