@@ -4,6 +4,15 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 ![](https://github.com/halfrost/halfrost/blob/master/icons/docker.gif)
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
+</div>
+
+</br>
+</br>
+</br>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/adriana-estrada-57a9a813a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
