@@ -48,6 +48,7 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
   
+  ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 </br> 
 <div align="center">
 <img hight="70" width="470" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/aws.gif">
@@ -56,7 +57,7 @@
 </br>
 </br>
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <!--
 **adrestrada/adrestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
