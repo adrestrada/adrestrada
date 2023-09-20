@@ -2,10 +2,9 @@
 <h3 align="center">A passionate Data Science & Data Engineer in Canada </h3>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
-![](https://github.com/halfrost/halfrost/blob/master/icons/docker.gif)
 
 <div align="center">
-<img hight="100" width="500" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
+<img hight="50" width="100" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
 </div>
 
 </br>
@@ -55,6 +54,7 @@
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
   
 ![](https://github.com/halfrost/halfrost/blob/master/icons/aws.gif)
+![](https://github.com/halfrost/halfrost/blob/master/icons/docker.gif)>
 <!--
 **adrestrada/adrestrada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
