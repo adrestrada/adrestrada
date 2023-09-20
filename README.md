@@ -4,7 +4,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 <div align="center">
-<img hight="70" width="120" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
+<img hight="90" width="140" alt="GIF" align="center" src="https://github.com/halfrost/halfrost/blob/master/icons/docker.gif">
 </div>
 </br>
 <h3 align="center">Connect with me:</h3>
