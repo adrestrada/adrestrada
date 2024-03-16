@@ -91,7 +91,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <!--a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> -->
 <a href="https://www.adobe.com/ca/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="xd" width="30" height="30"/> </a>
-<a href="https://www.splunk.com/en_us/download.html?utm_campaign=google_amer_en_search_brand&utm_source=google&utm_medium=cpc&utm_content=free_trials_downloads&utm_term=splunk&_bk=splunk&_bt=662330344234&_bm=e&_bn=g&_bg=43997962767&device=c&gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GogSSZFVDv1vdlsDzNLnlHvAXoejXNREUJtfK-tA_Y6iLPPJgBbZmM4aAnZSEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="dart" width="90" height="90"/> </a>
+<a href="https://www.splunk.com/en_us/download.html?utm_campaign=google_amer_en_search_brand&utm_source=google&utm_medium=cpc&utm_content=free_trials_downloads&utm_term=splunk&_bk=splunk&_bt=662330344234&_bm=e&_bn=g&_bg=43997962767&device=c&gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GogSSZFVDv1vdlsDzNLnlHvAXoejXNREUJtfK-tA_Y6iLPPJgBbZmM4aAnZSEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="dart" width="90" height="45"/> </a>
 </p>
  <div align="center">
 <img hight="90" width="70" alt="GIF" align="center" src="https://github.com/adrestrada/website/blob/main/images/638d9101e3ddcd7caa41b4d1_Informatica%20B2B%20Data%20Exchange%20Test.svg">
