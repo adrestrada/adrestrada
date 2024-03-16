@@ -94,7 +94,7 @@
 <a href="https://www.splunk.com/en_us/download.html?utm_campaign=google_amer_en_search_brand&utm_source=google&utm_medium=cpc&utm_content=free_trials_downloads&utm_term=splunk&_bk=splunk&_bt=662330344234&_bm=e&_bn=g&_bg=43997962767&device=c&gad_source=1&gclid=Cj0KCQjwhtWvBhD9ARIsAOP0GogSSZFVDv1vdlsDzNLnlHvAXoejXNREUJtfK-tA_Y6iLPPJgBbZmM4aAnZSEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/splunk.svg" alt="dart" width="90" height="90"/> </a>
 </p>
  <div align="center">
-<img hight="90" width="140" alt="GIF" align="center" src="https://github.com/adrestrada/website/blob/main/images/638d9101e3ddcd7caa41b4d1_Informatica%20B2B%20Data%20Exchange%20Test.svg">
+<img hight="90" width="70" alt="GIF" align="center" src="https://github.com/adrestrada/website/blob/main/images/638d9101e3ddcd7caa41b4d1_Informatica%20B2B%20Data%20Exchange%20Test.svg">
 </div>
 </br> 
 
