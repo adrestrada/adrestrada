@@ -49,10 +49,10 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> -->
-<p align="center">
-<a href="https://hadoop.apache.org/docs/stable/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="xd" width="60" height="60"/> </a>
-<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="xd" width="70" height="70"/> </a> 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="amplify" width="60" height="60"/> </a> 
+<p align="left">
+<a href="https://hadoop.apache.org/docs/stable/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="xd" width="40" height="40"/> </a> 
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="amplify" width="40" height="40"/> </a> 
 <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/kafka.svg" alt="android" width="30" height="30"/> </a> 
 <a href="https://https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
